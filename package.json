@@ -1,0 +1,23 @@
+{
+  "name": "medium-formalapi",
+  "version": "1.0.0",
+  "description": "api to my cv ;)",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "nodemailer": "^3.0.2",
+    "method-override": "^2.3.7",
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node start"
+  },
+  "keywords": [
+    "api",
+    "cv",
+    "personal"
+  ],
+  "author": "ZyMonogatari",
+  "license": "ISC"
+}
