@@ -11,7 +11,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node app"
+    "test": "node app",
+    "start": "node app"
   },
   "keywords": [
     "api",
