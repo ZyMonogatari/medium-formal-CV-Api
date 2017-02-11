@@ -5,7 +5,7 @@ var bodyParser  = require("body-parser");
 var methodOverride = require("method-override");
 var mailer = require('./services/mailer');
 
-var port = (8080);
+var port = (process.env.PORT || 5000);
 var router = express.Router();
 
 
